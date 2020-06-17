@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\bin\Debug\netcoreapp3.1\Aula 19 -.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\bin\Debug\netcoreapp3.1\Aula 19 -.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\bin\Debug\netcoreapp3.1\Aula 19 -.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\bin\Debug\netcoreapp3.1\Aula 19 -.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\bin\Debug\netcoreapp3.1\Aula 19 -.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\bin\Debug\netcoreapp3.1\Aula 19 -.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 19 -\obj\Debug\netcoreapp3.1\Aula 19 -.genruntimeconfig.cache
